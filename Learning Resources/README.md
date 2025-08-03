@@ -10,9 +10,13 @@ A curated set of practical resources for testers working with:
 This repo is grouped into:
 
 Learning Resources  
+
 ├─  Examples – Real working code snippets  
+
 ├─  Official Documentation – Direct links and summaries  
+
 ├─  Tutorials – Beginner to intermediate level video tutorials
+
 ├─  Other Resources – Community articles, blogs, tools
 
 ---
