@@ -50,7 +50,7 @@ No unnecessary abstractions. Just working examples that make sense.
 
 ## Contributions
 
-If you have got a clean, working example or a neat trick that helped you debug something, feel free to raise a PR. You can also contribute useful links, videos, or articles that saved your time. Doesn’t have to be code only.
+If you have something that you feel can help the community in learning something new, feel free to raise a PR. You can also contribute useful links, videos, or articles that saved your time. Doesn’t have to be code only.
 
 This is meant to be a growing, practical collection for testers. The kind you wish you had bookmarked earlier.
 
